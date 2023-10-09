@@ -1,0 +1,26 @@
+[
+    {
+		"dat_ent": "99-07-2023",
+		"km_per": "0,0",
+		"per_ent": "adm,ABC0123",
+		"pes_bru": "2427.0",
+		"pla_vei": "ABC0123",
+		"qtd_cli": "2",
+		"qtd_doc": "2",
+		"seq_car": "1",
+		"tmp_per": "00:00",
+		"val_tot_car": "17,672.00"
+    },
+	{
+		"dat_ent": "00-07-2023",
+		"km_per": "0,0",
+		"per_ent": "adm,ABC0123",
+		"pes_bru": "2427.0",
+		"pla_vei": "ABC0123",
+		"qtd_cli": "2",
+		"qtd_doc": "2",
+		"seq_car": "1",
+		"tmp_per": "00:00",
+		"val_tot_car": "17,672.00"
+    }
+]

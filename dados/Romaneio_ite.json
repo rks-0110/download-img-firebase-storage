@@ -1,0 +1,21 @@
+{
+    "000000006": [
+        null,
+        {
+            "cod_ite": 1,
+            "cod_uni": "CXA",
+            "nom_ite": "Item Teste",
+            "ocorrencia": "",
+            "qtd_ite": "4.000",
+            "status": false
+          },
+          {
+            "cod_ite": 1,
+            "cod_uni": "CXA",
+            "nom_ite": "Item Teste",
+            "ocorrencia": "",
+            "qtd_ite": "1.000",
+            "status": false
+          }
+    ]
+}
